@@ -68,8 +68,8 @@ Here is a video of the app in action : https://www.youtube.com/watch?v=wlhVGrzqk
 
 ### Search:
 
-> Search with debouncing for string of length 3 or more 
-> Displays results as cards with backdrop image, media type, rating and release date
+> * Search with debouncing for string of length 3 or more 
+> * Displays results as cards with backdrop image, media type, rating and release date
 
 #### Screens:
 
