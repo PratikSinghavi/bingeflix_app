@@ -2,7 +2,7 @@
 
 Bingeflix iOS mobile app developed using MVVM design pattern.
 
-Here is a video of the app in action : 
+Here is a video of the app in action : https://www.youtube.com/watch?v=wlhVGrzqkyc
 
 ## Tech Specs:
 #### Frontend Specifications
@@ -74,8 +74,5 @@ Here is a video of the app in action :
 #### Screens:
 
 <img width="440" alt="search" src="https://user-images.githubusercontent.com/60423353/119455783-ca778180-bcee-11eb-8234-82d65cb0de24.png">
-
-
-
 
 
