@@ -1,0 +1,6 @@
+framework module Pods_swifthw__macOS_ {
+  umbrella header "Pods-swifthw (macOS)-umbrella.h"
+
+  export *
+  module * { export * }
+}
