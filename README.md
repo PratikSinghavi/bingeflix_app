@@ -55,9 +55,9 @@ Here is a video of the app in action : https://www.youtube.com/watch?v=wlhVGrzqk
 
 ### Watchlist
 
-> User list containing all saved media implemented using UserDefaults interface
-> Ability to remove media from watchlist on long press using context menu
-> Change order of media using drag and drop functionality
+> * User list containing all saved media implemented using UserDefaults interface
+> * Ability to remove media from watchlist on long press using context menu
+> * Change order of media using drag and drop functionality
 
 
 #### Screens:
